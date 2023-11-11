@@ -13,7 +13,7 @@ public class Casino {
 		// CardDeck deck = CardDeck.getDeck(420);
 		CardDeck deck = CardDeck.getDeck();
 
-		// TODO
+		// TODOggg
 	}
 
 	public static String readString() {
